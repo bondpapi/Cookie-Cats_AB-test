@@ -40,11 +40,3 @@ The dataset contains these key columns:
 
 5. **Decision & Recommendations**
     - Based on retention impact, we determined whether moving the gate was beneficial.
-
-## Results & Findings
-
-- **No significant impact** on *Day 1 retention.*
-
-- **Significant difference** in *Day 7 retention*, suggesting an effect on long-term engagement.
-
-- Further investigation into player behavior beyond 7 days is recommended.
